@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your GitHub project. This will help present your project clearly and professionally.
-
----
-
 # Superstore Sales Data Analysis & Forecasting
 
 This repository contains a comprehensive **Exploratory Data Analysis (EDA)** and **Sales Forecasting** model for a Superstore sales dataset. The project involves data cleaning, feature engineering, and building a predictive model to forecast future sales based on historical data.
